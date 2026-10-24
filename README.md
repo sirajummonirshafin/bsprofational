@@ -1,24 +1,34 @@
+Apnar screenshot-e **puro file-ti ekta giant Code Block-er (Black box) bhetore chole geche**!
 
+---
 
-```markdown
-![Screenshot_2024-09-19_17_45_09](https://github.com/user-attachments/assets/873ef98a-48e0-445b-b5dc-eb5959ad5b34)
+### ❌ Keno ei jhamela hochhe?
 
-<div align="center">
+Apni jokhon puro text-ti AI er chat box theke copy korchen, tokhon AI er nijer response-er outer code block marker-tio (````markdown`) copy hoye jacche.
 
-# $${\color{orange}Burpsuite-Professional-v2026-latest}$$
-</div>
+GitHub render korar shomoy file-er ekdom prothom line-e triple backticks (`````) dekhle mone kore **puro README file-tai ekta code block**! Tai image render hoche na, math formula (`$$`) kaj korche na, and text preview block dekhacche.
 
-<p align="center"> Burp Suite Professional is the web security tester's toolkit of choice. Use it to automate repetitive testing tasks - then dig deeper with its expert-designed manual and semi-automated security testing tools. Burp Suite Professional can help you to test for OWASP Top 10 vulnerabilities - as well as the very latest hacking techniques. Advanced manual and automated features empower users to find lurking vulnerabilities more quickly. Burp Suite is designed and used by the industry's best.</p>
+---
 
-<h3 align="center">
+### Kiভাবে Fix Korben (2-step solution):
+
+#### Step 1: `README.md` File-er Ekdom Prothom Line Check Korun
+
+Apnar VS Code-e `README.md` file-ti open korun.
+Ekdom 1-numbor line-e jodi ````markdown` ba ````` lekha thake, **seta dhori muche (delete) din**.
+
+#### Step 2: Nicher Text-ti Copy Korun (Outer block chara direct text)
+
+Nicher text-ti **ekdom prothom line (Line 1) formatting-e** thakbe. **Kono rorom backtick (```) bina** shorasori copy kore `README.md`-te paste kore save (`Ctrl + S`) o `git push` korun:
+
+---
+
+$${\color{orange}Burpsuite-Professional-v2026-latest}$$
 
 [Overview](https://portswigger.net/burp/pro)
-</h3>
- 
-<br>
-<br>
 
-#  $${\color{magenta}Linux-Installation}$$
+$${\color{magenta}Linux-Installation}$$
+
 ```sh
 sudo apt update && sudo apt install -y wget && wget -qO- [https://raw.githubusercontent.com/sirajummonirshafin/bsprofational/main/install.sh](https://raw.githubusercontent.com/sirajummonirshafin/bsprofational/main/install.sh) | sudo bash
 
@@ -194,6 +204,6 @@ sudo cp burp /usr/local/bin/burp
 * Loader.jar 👉 [h3110w0r1d-y](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
 * Script 👉 [cyb3rzest](https://github.com/cyb3rzest/Burp-Suite-Pro)
 
-```
+---
 
-```
+Ekhon save kore push korlei dekhben screenshot, heading, colors and commands ekdom visually original design-e perfectly render hobe!
