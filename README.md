@@ -189,8 +189,6 @@ sudo cp burp /usr/local/bin/burp
 ## Credits
 
 * Maintainer 👉 [Sirajum Monir](https://www.facebook.com/S.monir5403)
-* Loader.jar 👉 [h3110w0r1d-y](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
-* Script 👉 [cyb3rzest](https://github.com/cyb3rzest/Burp-Suite-Pro)
 
 ```
 
